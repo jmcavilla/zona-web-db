@@ -1,0 +1,17 @@
+{
+    "home_carousel" : [{
+            "posicion": 1,
+            "imagen" : "https://s3.amazonaws.com/gt7sp-prod/photo/12/73/88/8512463002792887312_0.jpg",
+            "torneo":{
+                "id": 1
+            }
+        },
+        {
+            "posicion": 2,
+            "imagen" : "https://s3.amazonaws.com/gt7sp-prod/photo/04/15/27/8511900061966271504_0.jpg",
+            "torneo":{
+                "id" : 2
+            }
+        }
+    ]
+}
