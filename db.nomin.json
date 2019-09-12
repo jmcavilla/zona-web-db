@@ -1,0 +1,330 @@
+{
+    "home_carousel" : [
+        {
+            "posicion": 1,
+            "imagen" : "https://s3.amazonaws.com/gt7sp-prod/photo/12/73/88/8512463002792887312_0.jpg",
+            "torneo":{
+                "id": 1
+            },
+            "titulo": "Se viene la super Formula!!",
+            "subtitulo": "La primer fecha es el 16/09 en el circuito de Cataluña. ¡NO TE LA PIERDAS!",
+            "router": "/tournament/1"
+        },
+        {
+            "posicion": 2,
+            "imagen" : "https://s3.amazonaws.com/gt7sp-prod/photo/04/15/27/8511900061966271504_0.jpg",
+            "torneo":{
+                "id" : 2
+            },
+            "titulo": "Esto es una prueba 2",
+            "subtitulo": "Esto es una prueba de un subtitulo de carousel 2",
+            "router": "/tournament/2"
+        }
+    ],
+    "torneos": [
+        {
+            "id":1,
+            "nombre":"Super F1",
+            "listaCarreras":[
+                {
+                    "numeroFecha":1,
+                    "circuito":"Cataluña",
+                    "hora":"12:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":2,
+                    "circuito":"Cataluña",
+                    "hora":"12:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":3,
+                    "circuito":"Cataluña",
+                    "hora":"12:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":4,
+                    "circuito":"Cataluña",
+                    "hora":"12:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":5,
+                    "circuito":"Cataluña",
+                    "hora":"12:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":6,
+                    "circuito":"Cataluña",
+                    "hora":"12:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                }
+            ],
+            "listaPilotos":[
+                {
+                    "psnId":"ZSRT_TioNano55",
+                    "nombre":"Juan Manuel Cavilla",
+                    "auto":"Super Formula '19 Toyota",
+                    "resultados":[1,1,1,1,1,1],
+                    "puntos":0,
+                    "equipo":1
+                },
+                {
+                    "psnId":"ZSRT_pipe_ibanez",
+                    "nombre":"Juan Manuel Cavilla",
+                    "auto":"Super Formula '19 Toyota",
+                    "resultados":[2,2,2,2,2,2],
+                    "puntos":0,
+                    "equipo":1
+                },
+                {
+                    "psnId":"ZSRT_Mauricio",
+                    "nombre":"Juan Manuel Cavilla",
+                    "auto":"Super Formula '19 Toyota",
+                    "resultados":[3,3,3,3,3,3],
+                    "puntos":0,
+                    "equipo":1
+                }
+            ],
+            "listaEquipos":[
+                {
+                    "id":1,
+                    "nombre":"Ferrari",
+                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "puntos":0
+                }
+            ],
+            "puntajes" : [25,20,18,16,14,12,10,9,8,7,6,5,4,3,2,1]
+        },
+        {
+            "id":2,
+            "nombre":"Renault RS01",
+            "listaCarreras":[
+                {
+                    "numeroFecha":1,
+                    "circuito":"NUBURGRING GP",
+                    "hora":"14:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":2,
+                    "circuito":"IMOLA",
+                    "hora":"22:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":3,
+                    "circuito":"LM BUGATTI",
+                    "hora":"14:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":4,
+                    "circuito":"BRNO",
+                    "hora":"19:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":5,
+                    "circuito":"INDIANAPOLIS R",
+                    "hora":"16:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                },
+                {
+                    "numeroFecha":6,
+                    "circuito":"CATALUNYA GP",
+                    "hora":"21:00",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "descripcion":"Cataluña - España"
+                }
+            ],
+            "listaPilotos":[
+                {
+                    "psnId":"LANDO1025",
+                    "nombre":"ORLANDO O'MEALLY",
+                    "auto":"Renault RS01",
+                    "resultados":[0,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":1
+                },
+                {
+                    "psnId":"ZSRT_MAURICIO",
+                    "nombre":"MAURICIO PERALTA",
+                    "auto":"Renault RS01",
+                    "resultados":[17,5,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"MATI3370",
+                    "nombre":"MATIAS ALARCON",
+                    "auto":"Renault RS01",
+                    "resultados":[6,6,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"DANIRACER233",
+                    "nombre":"DANIEL BENEDITOS",
+                    "auto":"Renault RS01",
+                    "resultados":[0,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"TVR_MAYVALOVI",
+                    "nombre":"CRISTIAN OVIEDO",
+                    "auto":"Renault RS01",
+                    "resultados":[0,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"ZSRT_EFFRAIN13",
+                    "nombre":"EFRAIN BARRIOS",
+                    "auto":"Renault RS01",
+                    "resultados":[2,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"DANMATHI_TVRZ",
+                    "nombre":"HUGO ESTRADA",
+                    "auto":"Renault RS01",
+                    "resultados":[8,9,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"ORMA_Ford-Santy",
+                    "nombre":"SANTIAGO MALAGRIDA",
+                    "auto":"Renault RS01",
+                    "resultados":[3,1,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"ORMA_JUANAMONTE",
+                    "nombre":"JUAN AMONTE",
+                    "auto":"Renault RS01",
+                    "resultados":[1,2,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"ARIEL_DIGI",
+                    "nombre":"ARIEL DI GIROLAMO",
+                    "auto":"Renault RS01",
+                    "resultados":[4,4,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"SEBATANDILL_14",
+                    "nombre":"SEBASTIAN OBESIO",
+                    "auto":"Renault RS01",
+                    "resultados":[0,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"STUFF_2403",
+                    "nombre":"JULIO GUZMAN",
+                    "auto":"Renault RS01",
+                    "resultados":[10,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"MFK_Racelng",
+                    "nombre":"Maximilian Fukelman",
+                    "auto":"Renault RS01",
+                    "resultados":[0,8,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"WFERNADOCARO",
+                    "nombre":"FERNANDO CARO",
+                    "auto":"Renault RS01",
+                    "resultados":[7,7,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"ACAESTOYHOY",
+                    "nombre":"MARIANO YORI",
+                    "auto":"Renault RS01",
+                    "resultados":[9,0,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"NACHODURELLI_ARG",
+                    "nombre":"NACHO DURELLI",
+                    "auto":"Renault RS01",
+                    "resultados":[5,11,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"DIRTY_BERNARD",
+                    "nombre":"BERNARDO HERNANDEZ",
+                    "auto":"Renault RS01",
+                    "resultados":[0,3,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"AT_RAMSEY",
+                    "nombre":"RAMSES",
+                    "auto":"Renault RS01",
+                    "resultados":[11,17,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"PEPEGYT40",
+                    "nombre":"FEDERICO",
+                    "auto":"Renault RS01",
+                    "resultados":[12,10,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"DIEGOBELL",
+                    "nombre":"DIEGO",
+                    "auto":"Renault RS01",
+                    "resultados":[0,17,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                },
+                {
+                    "psnId":"MANI_1881",
+                    "nombre":"MATIAS BONICA",
+                    "auto":"Renault RS01",
+                    "resultados":[0,17,0,0,0,0],
+                    "puntos":0,
+                    "equipo":0
+                }
+                
+            ],
+            "listaEquipos":[],
+            "puntajes" : [40,35,30,26,22,19,17,15,13,11,10,9,8,7,6,5,2]
+        }
+    ]
+}
