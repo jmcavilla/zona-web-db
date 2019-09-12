@@ -75,7 +75,7 @@
                     "nombre":"Juan Manuel Cavilla",
                     "auto":"Super Formula '19 Toyota",
                     "resultados":[1,1,1,1,1,1],
-                    "puntos":133,
+                    "puntos":0,
                     "equipo":1
                 },
                 {
@@ -83,7 +83,7 @@
                     "nombre":"Juan Manuel Cavilla",
                     "auto":"Super Formula '19 Toyota",
                     "resultados":[2,2,2,2,2,2],
-                    "puntos":123,
+                    "puntos":0,
                     "equipo":1
                 },
                 {
@@ -91,7 +91,7 @@
                     "nombre":"Juan Manuel Cavilla",
                     "auto":"Super Formula '19 Toyota",
                     "resultados":[3,3,3,3,3,3],
-                    "puntos":143,
+                    "puntos":0,
                     "equipo":1
                 }
             ],
@@ -99,7 +99,8 @@
                 {
                     "id":1,
                     "nombre":"Ferrari",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png"
+                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "puntos":0
                 }
             ],
             "puntajes" : [25,20,18,16,14,12,10,9,8,7,6,5,4,3,2,1]
