@@ -7,7 +7,8 @@
                 "id": 1
             },
             "titulo": "Esto es una prueba 1",
-            "subtitulo": "Esto es una prueba de un subtitulo de carousel 1 "
+            "subtitulo": "Esto es una prueba de un subtitulo de carousel 1 ",
+            "router": "/tournament/1"
         },
         {
             "posicion": 2,
@@ -16,7 +17,8 @@
                 "id" : 2
             },
             "titulo": "Esto es una prueba 2",
-            "subtitulo": "Esto es una prueba de un subtitulo de carousel 2"
+            "subtitulo": "Esto es una prueba de un subtitulo de carousel 2",
+            "router": "/tournament/2"
         }
     ]
 }
