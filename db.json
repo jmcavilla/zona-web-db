@@ -28,7 +28,7 @@
             "listaCarreras":[
                 {
                     "numeroFecha":1,
-                    "circuito":"",
+                    "circuito":"Cataluña",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
                     "descripcion":"Cataluña - España"
@@ -39,7 +39,7 @@
                     "psnId":"ZSRT_TioNano55",
                     "nombre":"Juan Manuel Cavilla",
                     "auto":"Super Formula '19 Toyota",
-                    "resultados":[1,3,2,1,5],
+                    "resultados":[1,0,0,0,0,0],
                     "puntos":"123",
                     "equipo":1
                 }
