@@ -75,7 +75,23 @@
                     "nombre":"Juan Manuel Cavilla",
                     "auto":"Super Formula '19 Toyota",
                     "resultados":[1,0,0,0,0,0],
+                    "puntos":"133",
+                    "equipo":1
+                },
+                {
+                    "psnId":"ZSRT_TioNano55",
+                    "nombre":"Juan Manuel Cavilla",
+                    "auto":"Super Formula '19 Toyota",
+                    "resultados":[1,0,0,0,0,0],
                     "puntos":"123",
+                    "equipo":1
+                },
+                {
+                    "psnId":"ZSRT_TioNano55",
+                    "nombre":"Juan Manuel Cavilla",
+                    "auto":"Super Formula '19 Toyota",
+                    "resultados":[1,0,0,0,0,0],
+                    "puntos":"143",
                     "equipo":1
                 }
             ],
