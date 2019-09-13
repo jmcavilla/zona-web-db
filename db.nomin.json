@@ -123,42 +123,48 @@
                     "circuito":"NUBURGRING GP",
                     "hora":"14:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Alemania",
+                    "pais": "de"
                 },
                 {
                     "numeroFecha":2,
                     "circuito":"IMOLA",
                     "hora":"22:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Italia",
+                    "pais": "it"
                 },
                 {
                     "numeroFecha":3,
-                    "circuito":"LM BUGATTI",
+                    "circuito":"LeMans BUGATTI",
                     "hora":"14:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Francia",
+                    "pais": "fr"
                 },
                 {
                     "numeroFecha":4,
                     "circuito":"BRNO",
                     "hora":"19:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Republica Checa",
+                    "pais": "cz"
                 },
                 {
                     "numeroFecha":5,
                     "circuito":"INDIANAPOLIS R",
                     "hora":"16:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Estados Unidos",
+                    "pais": "us"
                 },
                 {
                     "numeroFecha":6,
                     "circuito":"CATALUNYA GP",
                     "hora":"21:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Cataluña - España",
+                    "pais": "es"
                 }
             ],
             "listaPilotos":[
