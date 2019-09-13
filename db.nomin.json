@@ -77,7 +77,7 @@
                     "resultados":[1,1,1,1,1,1],
                     "puntos":0,
                     "equipo":1,
-                    "pais":"ARG"
+                    "pais":"ar"
                 },
                 {
                     "psnId":"ZSRT_pipe_ibanez",
@@ -86,7 +86,7 @@
                     "resultados":[2,2,2,2,2,2],
                     "puntos":0,
                     "equipo":1,
-                    "pais":"CHI"
+                    "pais":"cl"
                 },
                 {
                     "psnId":"ZSRT_Mauricio",
@@ -95,7 +95,7 @@
                     "resultados":[3,3,3,3,3,3],
                     "puntos":0,
                     "equipo":1,
-                    "pais":"ARG"
+                    "pais":"ar"
                 }
             ],
             "listaEquipos":[
