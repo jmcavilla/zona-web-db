@@ -28,45 +28,51 @@
             "listaCarreras":[
                 {
                     "numeroFecha":1,
-                    "circuito":"Cataluña",
+                    "circuito":"Barcelona",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Cataluña - España",
+                    "pais":"es"
                 },
                 {
                     "numeroFecha":2,
-                    "circuito":"Cataluña",
+                    "circuito":"RedBull",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Austria",
+                    "pais":"at"
                 },
                 {
                     "numeroFecha":3,
-                    "circuito":"Cataluña",
+                    "circuito":"Nuburgring GP",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Alemania",
+                    "pais":"de"
                 },
                 {
                     "numeroFecha":4,
-                    "circuito":"Cataluña",
+                    "circuito":"Monza",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Italia",
+                    "pais":"it"
                 },
                 {
                     "numeroFecha":5,
-                    "circuito":"Cataluña",
+                    "circuito":"Susuka",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Japon",
+                    "pais":"jp"
                 },
                 {
                     "numeroFecha":6,
-                    "circuito":"Cataluña",
+                    "circuito":"Interlagos",
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
-                    "descripcion":"Cataluña - España"
+                    "descripcion":"Brasil",
+                    "pais":"br"
                 }
             ],
             "listaPilotos":[
