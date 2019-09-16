@@ -248,43 +248,43 @@
                 {
                     "id":2,
                     "nombre":"Mercedes",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"http://pngimg.com/uploads/mercedes_logos/mercedes_logos_PNG3.png",
                     "puntos":0
                 },
                 {
                     "id":3,
                     "nombre":"Red Bull",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1e8.png",
                     "puntos":0
                 },
                 {
                     "id":4,
                     "nombre":"Mclaren",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"https://www.carlogos.org/logo/McLaren-logo-1997-1920x1080.png",
                     "puntos":0
                 },
                 {
                     "id":5,
                     "nombre":"Haas",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
                     "puntos":0
                 },
                 {
                     "id":6,
                     "nombre":"Racing Point",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"https://vignette.wikia.nocookie.net/logopedia/images/c/cf/RacingPoint_Icon.svg/revision/latest/scale-to-width-down/150?cb=20190222091041",
                     "puntos":0
                 },
                 {
                     "id":7,
                     "nombre":"Toro Rosso",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"data:image/png;base64,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",
                     "puntos":0
                 },
                 {
                     "id":8,
                     "nombre":"Renault",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Renault_F1_Team_logo_2019.svg/1200px-Renault_F1_Team_logo_2019.svg.png",
                     "puntos":0
                 }
             ],
