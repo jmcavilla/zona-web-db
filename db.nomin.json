@@ -242,49 +242,49 @@
                 {
                     "id":1,
                     "nombre":"Ferrari",
-                    "imagen":"https://logos-coches.com/wp-content/uploads/2018/04/Ferrari-logo.png",
+                    "imagen":"ferrari.png",
                     "puntos":0
                 },
                 {
                     "id":2,
                     "nombre":"Mercedes",
-                    "imagen":"http://pngimg.com/uploads/mercedes_logos/mercedes_logos_PNG3.png",
+                    "imagen":"mercedes.png",
                     "puntos":0
                 },
                 {
                     "id":3,
                     "nombre":"Red Bull",
-                    "imagen":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1e8.png",
+                    "imagen":"redbull.png",
                     "puntos":0
                 },
                 {
                     "id":4,
                     "nombre":"Mclaren",
-                    "imagen":"https://www.carlogos.org/logo/McLaren-logo-1997-1920x1080.png",
+                    "imagen":"mclaren.png",
                     "puntos":0
                 },
                 {
                     "id":5,
                     "nombre":"Haas",
-                    "imagen":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Haas_F1.png",
+                    "imagen":"haas.png",
                     "puntos":0
                 },
                 {
                     "id":6,
                     "nombre":"Racing Point",
-                    "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_Racing_Point_imitaci%C3%B3n.png/600px-Logo_Racing_Point_imitaci%C3%B3n.png",
+                    "imagen":"racingpoint.png",
                     "puntos":0
                 },
                 {
                     "id":7,
                     "nombre":"Toro Rosso",
-                    "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Scuderia_Toro_Rosso_Logo.png/600px-Scuderia_Toro_Rosso_Logo.png",
+                    "imagen":"tororosso.png",
                     "puntos":0
                 },
                 {
                     "id":8,
                     "nombre":"Renault",
-                    "imagen":"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Renault_F1_Team_logo_2019.svg/1200px-Renault_F1_Team_logo_2019.svg.png",
+                    "imagen":"renault.png",
                     "puntos":0
                 }
             ],
