@@ -25,6 +25,7 @@
         {
             "id":1,
             "nombre":"Super F1",
+            "logo": "https://aaronlloydcollins.files.wordpress.com/2017/08/wp-image-352040740.jpg",
             "listaCarreras":[
                 {
                     "numeroFecha":1,
@@ -32,7 +33,8 @@
                     "hora":"12:00",
                     "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg",
                     "descripcion":"Cataluña - España",
-                    "pais":"es"
+                    "pais":"es",
+                    "completed": false
                 },
                 {
                     "numeroFecha":2,
@@ -40,7 +42,8 @@
                     "hora":"12:00",
                     "imagenCircuito":"https://i1.wp.com/www.timejust.es/wp-content/uploads/2019/08/Red-Bull-Ring.jpg",
                     "descripcion":"Austria",
-                    "pais":"at"
+                    "pais":"at",
+                    "completed": false
                 },
                 {
                     "numeroFecha":3,
@@ -48,7 +51,8 @@
                     "hora":"12:00",
                     "imagenCircuito":"https://jacos-paddock.com/wp-content/uploads/2019/05/nurburgring-gp-circuit.jpg",
                     "descripcion":"Alemania",
-                    "pais":"de"
+                    "pais":"de",
+                    "completed": false
                 },
                 {
                     "numeroFecha":4,
@@ -56,7 +60,8 @@
                     "hora":"12:00",
                     "imagenCircuito":"https://media-cdn.tripadvisor.com/media/photo-s/08/b3/c4/9c/la-curva-parabolica-dell.jpg",
                     "descripcion":"Italia",
-                    "pais":"it"
+                    "pais":"it",
+                    "completed": false
                 },
                 {
                     "numeroFecha":5,
@@ -64,7 +69,8 @@
                     "hora":"12:00",
                     "imagenCircuito":"https://i.imgur.com/5ElkAir.jpg",
                     "descripcion":"Japon",
-                    "pais":"jp"
+                    "pais":"jp",
+                    "completed": false
                 },
                 {
                     "numeroFecha":6,
@@ -72,7 +78,8 @@
                     "hora":"12:00",
                     "imagenCircuito":"https://i0.wp.com/reportebrasil.com/wp-content/uploads/2017/10/Interlagos.jpg",
                     "descripcion":"Brasil",
-                    "pais":"br"
+                    "pais":"br",
+                    "completed": false
                 }
             ],
             "listaPilotos":[
@@ -293,6 +300,7 @@
         {
             "id":2,
             "nombre":"Renault RS01",
+            "logo": "https://s3.amazonaws.com/gt7sp-prod/decal/28/99/69/5990381312152699928_1.png",
             "listaCarreras":[
                 {
                     "numeroFecha":1,
