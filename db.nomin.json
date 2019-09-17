@@ -30,7 +30,7 @@
                     "numeroFecha":1,
                     "circuito":"Barcelona",
                     "hora":"12:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg",
                     "descripcion":"Cataluña - España",
                     "pais":"es"
                 },
@@ -38,7 +38,7 @@
                     "numeroFecha":2,
                     "circuito":"RedBull",
                     "hora":"12:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://i1.wp.com/www.timejust.es/wp-content/uploads/2019/08/Red-Bull-Ring.jpg",
                     "descripcion":"Austria",
                     "pais":"at"
                 },
@@ -46,7 +46,7 @@
                     "numeroFecha":3,
                     "circuito":"Nuburgring GP",
                     "hora":"12:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://jacos-paddock.com/wp-content/uploads/2019/05/nurburgring-gp-circuit.jpg",
                     "descripcion":"Alemania",
                     "pais":"de"
                 },
@@ -54,7 +54,7 @@
                     "numeroFecha":4,
                     "circuito":"Monza",
                     "hora":"12:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://media-cdn.tripadvisor.com/media/photo-s/08/b3/c4/9c/la-curva-parabolica-dell.jpg",
                     "descripcion":"Italia",
                     "pais":"it"
                 },
@@ -62,7 +62,7 @@
                     "numeroFecha":5,
                     "circuito":"Susuka",
                     "hora":"12:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://i.imgur.com/5ElkAir.jpg",
                     "descripcion":"Japon",
                     "pais":"jp"
                 },
@@ -70,7 +70,7 @@
                     "numeroFecha":6,
                     "circuito":"Interlagos",
                     "hora":"12:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://i0.wp.com/reportebrasil.com/wp-content/uploads/2017/10/Interlagos.jpg",
                     "descripcion":"Brasil",
                     "pais":"br"
                 }
@@ -298,7 +298,7 @@
                     "numeroFecha":1,
                     "circuito":"NUBURGRING GP",
                     "hora":"14:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://jacos-paddock.com/wp-content/uploads/2019/05/nurburgring-gp-circuit.jpg",
                     "descripcion":"Alemania",
                     "pais": "de"
                 },
@@ -306,7 +306,7 @@
                     "numeroFecha":2,
                     "circuito":"IMOLA",
                     "hora":"22:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://media-cdn.tripadvisor.com/media/photo-s/17/d4/de/a8/autodromo-internazionale.jpg",
                     "descripcion":"Italia",
                     "pais": "it"
                 },
@@ -314,7 +314,7 @@
                     "numeroFecha":3,
                     "circuito":"BUGATTI",
                     "hora":"14:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://www.raceshift.co.uk/wp-content/uploads/2018/03/Le-Mans-Bugatti-Circuit-France-Race-Shift.jpg",
                     "descripcion":"Francia",
                     "pais": "fr"
                 },
@@ -322,7 +322,7 @@
                     "numeroFecha":4,
                     "circuito":"BRNO",
                     "hora":"19:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://okdiario.com/img/2019/08/01/circuito-brno-republica-checa-655x368.jpg",
                     "descripcion":"Republica Checa",
                     "pais": "cz"
                 },
@@ -330,7 +330,7 @@
                     "numeroFecha":5,
                     "circuito":"INDIANAPOLIS R",
                     "hora":"16:00",
-                    "imagenCircuito":"https://i2.wp.com/www.timejust.es/wp-content/uploads/2018/03/circuit-catalunya-1-1.jpg?fit=990%2C573&ssl=1",
+                    "imagenCircuito":"https://img2.rtve.es/imagenes/an-aerial-view-of-indianapolis-motor-speedway/1251392166494.jpg",
                     "descripcion":"Estados Unidos",
                     "pais": "us"
                 },
