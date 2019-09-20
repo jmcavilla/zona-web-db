@@ -97,7 +97,7 @@
                     "psnId":"UsLucas2",
                     "nombre":"Matias Alarcon",
                     "auto":"Super Formula '19",
-                    "resultados":[7,0,0,0,0,0],
+                    "resultados":[6,0,0,0,0,0],
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":1,
@@ -157,7 +157,7 @@
                     "psnId":"ZSRT_Mauricio",
                     "nombre":"",
                     "auto":"Super Formula '19",
-                    "resultados":[6,0,0,0,0,0],
+                    "resultados":[5,0,0,0,0,0],
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":4,
@@ -187,7 +187,7 @@
                     "psnId":"GTCL_zudo",
                     "nombre":"",
                     "auto":"Super Formula '19",
-                    "resultados":[5,0,0,0,0,0],
+                    "resultados":[4,0,0,0,0,0],
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":6,
@@ -197,7 +197,7 @@
                     "psnId":"mvracing_sr",
                     "nombre":"",
                     "auto":"Super Formula '19",
-                    "resultados":[4,0,0,0,0,0],
+                    "resultados":[7,0,0,0,0,0],
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":6,
@@ -295,7 +295,7 @@
                     "puntos":0
                 }
             ],
-            "puntajes" : [25,20,18,16,14,12,10,9,8,7,6,5,4,3,2,1]
+            "puntajes" : [25,20,18,16,14,12,10,9,8,7,6,5,4,3,2,1,0]
         },
         {
             "id":2,
