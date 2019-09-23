@@ -91,7 +91,8 @@
                     "vueltaRapida": [1,0,0,0,0,0],
                     "puntos":0,
                     "equipo":1,
-                    "pais":"ar"
+                    "pais":"ar",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"UsLucas2",
@@ -101,7 +102,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":1,
-                    "pais":"ar"
+                    "pais":"ar",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"YeezyMC77",
@@ -111,7 +113,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":2,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"noctis_tdm",
@@ -121,7 +124,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":2,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"ZSRT_pipe_ibanez",
@@ -131,7 +135,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":3,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"Zsrt_MiJel1989",
@@ -141,7 +146,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":3,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"ZSRT_Efrain",
@@ -151,7 +157,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":4,
-                    "pais":"pa"
+                    "pais":"pa",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"ZSRT_Mauricio",
@@ -161,7 +168,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":4,
-                    "pais":"ar"
+                    "pais":"ar",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"KenStark",
@@ -171,7 +179,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":5,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"Alex42BB",
@@ -181,7 +190,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":5,
-                    "pais":"co"
+                    "pais":"co",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"GTCL_zudo",
@@ -191,7 +201,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":6,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"mvracing_sr",
@@ -201,7 +212,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":6,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"desigual2332",
@@ -211,7 +223,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":7,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"nickolas98",
@@ -221,7 +234,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":7,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"Nicksepulveda19",
@@ -231,7 +245,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":8,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"Enirion",
@@ -241,7 +256,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":8,
-                    "pais":"cl"
+                    "pais":"cl",
+                    "participaciones": 0
                 }
                 
             ],
@@ -360,7 +376,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":1,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"ZSRT_MAURICIO",
@@ -370,7 +387,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"MATI3370",
@@ -380,7 +398,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 2
                 },
                 {
                     "psnId":"DANIRACER233",
@@ -390,7 +409,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"TVR_MAYVALOVI",
@@ -400,7 +420,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"ZSRT_EFFRAIN13",
@@ -410,7 +431,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 2
                 },
                 {
                     "psnId":"DANMATHI_TVRZ",
@@ -420,7 +442,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"ORMA_Ford-Santy",
@@ -430,7 +453,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"ORMA_JUANAMONTE",
@@ -440,7 +464,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"ARIEL_DIGI",
@@ -450,7 +475,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 2
                 },
                 {
                     "psnId":"SEBATANDILL_14",
@@ -460,7 +486,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 0
                 },
                 {
                     "psnId":"STUFF_2403",
@@ -470,7 +497,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"MFK_Racelng",
@@ -480,7 +508,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"WFERNADOCARO",
@@ -490,7 +519,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"ACAESTOYHOY",
@@ -500,7 +530,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"NACHODURELLI_ARG",
@@ -510,7 +541,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"DIRTY_BERNARD",
@@ -520,7 +552,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"AT_RAMSEY",
@@ -530,7 +563,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"PEPEGYT40",
@@ -540,7 +574,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 3
                 },
                 {
                     "psnId":"DIEGOBELL",
@@ -550,7 +585,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 },
                 {
                     "psnId":"MANI_1881",
@@ -560,7 +596,8 @@
                     "vueltaRapida": [0,0,0,0,0,0],
                     "puntos":0,
                     "equipo":0,
-                    "pais":""
+                    "pais":"",
+                    "participaciones": 1
                 }
                 
             ],
