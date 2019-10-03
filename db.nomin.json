@@ -116,17 +116,7 @@
                     "pais":"cl",
                     "participaciones": 0
                 },
-                {
-                    "psnId":"noctis_tdm",
-                    "nombre":"",
-                    "auto":"Super Formula '19",
-                    "resultados":[-1,-1,0,0,0,0],
-                    "vueltaRapida": [0,0,0,0,0,0],
-                    "puntos":0,
-                    "equipo":2,
-                    "pais":"cl",
-                    "participaciones": 0
-                },
+                
                 {
                     "psnId":"ZSRT_pipe_ibanez",
                     "nombre":"",
@@ -171,17 +161,7 @@
                     "pais":"ar",
                     "participaciones": 1
                 },
-                {
-                    "psnId":"KenStark",
-                    "nombre":"",
-                    "auto":"Super Formula '19",
-                    "resultados":[-1,-1,0,0,0,0],
-                    "vueltaRapida": [0,0,0,0,0,0],
-                    "puntos":0,
-                    "equipo":5,
-                    "pais":"cl",
-                    "participaciones": 0
-                },
+                
                 {
                     "psnId":"Alex42BB",
                     "nombre":"",
@@ -204,17 +184,7 @@
                     "pais":"cl",
                     "participaciones": 1
                 },
-                {
-                    "psnId":"desigual2332",
-                    "nombre":"",
-                    "auto":"Super Formula '19",
-                    "resultados":[-1,-1,0,0,0,0],
-                    "vueltaRapida": [0,0,0,0,0,0],
-                    "puntos":0,
-                    "equipo":7,
-                    "pais":"cl",
-                    "participaciones": 0
-                },
+                
                 {
                     "psnId":"nickolas98",
                     "nombre":"",
@@ -236,17 +206,6 @@
                     "equipo":8,
                     "pais":"cl",
                     "participaciones": 1
-                },
-                {
-                    "psnId":"Enirion",
-                    "nombre":"",
-                    "auto":"Super Formula '19",
-                    "resultados":[-1,0,0,0,0,0],
-                    "vueltaRapida": [0,0,0,0,0,0],
-                    "puntos":0,
-                    "equipo":8,
-                    "pais":"cl",
-                    "participaciones": 0
                 }
                 
             ],
