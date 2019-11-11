@@ -1,15 +1,6 @@
 {
     "home_carousel" : [
-        {
-            "posicion": 1,
-            "imagen" : "https://i.ytimg.com/vi/zeFgUsvMRxY/maxresdefault.jpg",
-            "torneo":{
-                "id" : 2
-            },
-            "titulo": "Seguimos con el Renault RS01",
-            "subtitulo": "Se viene la cuarta fecha de este apacionante torneo!",
-            "router": "/tournament/2"
-        }
+
     ],
     "torneos": [
         {
