@@ -19,7 +19,7 @@
             "titulo": "Se viene la super Formula!!",
             "subtitulo": "La primer fecha es el 16/09 en el circuito de Cataluña. ¡NO TE LA PIERDAS!",
             "router": "/tournament/1"
-        },
+        }
     ],
     "torneos": [
         {
