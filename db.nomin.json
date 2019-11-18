@@ -1,6 +1,25 @@
 {
     "home_carousel" : [
-
+        {
+            "posicion": 1,
+            "imagen" : "https://i.ytimg.com/vi/zeFgUsvMRxY/maxresdefault.jpg",
+            "torneo":{
+                "id" : 1
+            },
+            "titulo": "Seguimos con el Renault RS01",
+            "subtitulo": "Se viene la cuarta fecha de este apacionante torneo!",
+            "router": "/tournament/2"
+        },
+        {
+            "posicion": 2,
+            "imagen" : "https://s3.amazonaws.com/gt7sp-prod/photo/12/73/88/8512463002792887312_0.jpg",
+            "torneo":{
+                "id": 2
+            },
+            "titulo": "Se viene la super Formula!!",
+            "subtitulo": "La primer fecha es el 16/09 en el circuito de Cataluña. ¡NO TE LA PIERDAS!",
+            "router": "/tournament/1"
+        },
     ],
     "torneos": [
         {
