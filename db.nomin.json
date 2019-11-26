@@ -25,7 +25,7 @@
         {
             "id":1,
             "nombre":"Super F1",
-            "logo": "https://pbs.twimg.com/media/DuBi3zgVYAADlLe.png",
+            "logo": "https://superformula.net/sf2/assets/images/logo_superformula2_1.svg",
             "listaCarreras":[
                 {
                     "numeroFecha":1,
