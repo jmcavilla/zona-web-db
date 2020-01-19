@@ -1,26 +1,6 @@
 {
     "home_carousel" : [
         {
-            "posicion": 1,
-            "imagen" : "https://i.ytimg.com/vi/4O2WG1t4Evs/maxresdefault.jpg",
-            "torneo":{
-                "id" : 1
-            },
-            "titulo": "!Se viene el primer torneo del verano!",
-            "subtitulo": "Comenzamos el 13/01. ¡Todavía tenes tiempo de anotarte!",
-            "router": ""
-        },
-        {
-            "posicion": 2,
-            "imagen" : "https://www.ginetta.com/uploads/images/hero-images/_1980xAUTO_crop_center-center_75/GT5-Zandvoort.jpg",
-            "torneo":{
-                "id": 2
-            },
-            "titulo": "!Se viene el torneo de verano de PC2!",
-            "subtitulo": "Comenzamos el 15/01. ¡Todavía tenes tiempo de anotarte!",
-            "router": ""
-        },
-        {
             "posicion": 3,
             "imagen" : "https://s3.amazonaws.com/gt7sp-prod/photo/16/62/97/7422518234211976216_0.jpg",
             "torneo":{
@@ -29,7 +9,28 @@
             "titulo": "!ZSRT Arranco con todo!",
             "subtitulo": "Arrancamos con pilotos en los torneos mas importante de SudAmérica",
             "router": ""
+        },
+        {
+            "posicion": 1,
+            "imagen" : "https://www.autonocion.com/wp-content/uploads/2019/11/Actualizaci%C3%B3n-1.50-Gran-Turismo-Sport-noviembre-2019-10-889x500.jpg",
+            "torneo":{
+                "id" : 1
+            },
+            "titulo": "Se viene la segunda fecha del torneo de verano de GT Sport",
+            "subtitulo": "Este lunes 20/01 se larga la segunda fecha de este apasionante torneo con el RX-7 en Lago maggiore Este",
+            "router": ""
+        },
+        {
+            "posicion": 2,
+            "imagen" : "http://www.maximocruce.com.ar/wp-content/uploads/2018/02/600-bis-LAGUNA-SECA-2018.jpg",
+            "torneo":{
+                "id": 2
+            },
+            "titulo": "¡Nos vamos a Laguna Seca!",
+            "subtitulo": "La segunda fecha del torneo de Project Cars 2 se disputara en el famoso circuito de Laguna Seca",
+            "router": ""
         }
+        
     ],
     "torneos": [
         {
