@@ -707,7 +707,7 @@
             "listaCarreras":[
                 {
                     "numeroFecha":1,
-                    "circuito":"Circuito 1",
+                    "circuito":"C1 - Sprint 1",
                     "hora":"00:00",
                     "imagenCircuito":"",
                     "descripcion":"",
@@ -716,7 +716,7 @@
                 },
                 {
                     "numeroFecha":2,
-                    "circuito":"Circuito 2",
+                    "circuito":"C1 - Sprint 2",
                     "hora":"",
                     "imagenCircuito":"",
                     "descripcion":"",
@@ -725,7 +725,7 @@
                 },
                 {
                     "numeroFecha":3,
-                    "circuito":"Circuito 3",
+                    "circuito":"C2 - Sprint 1",
                     "hora":"",
                     "imagenCircuito":"",
                     "descripcion":"",
@@ -734,7 +734,79 @@
                 },
                 {
                     "numeroFecha":4,
-                    "circuito":"Circuito 4",
+                    "circuito":"C2 - Sprint 2",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":1,
+                    "circuito":"C3 - Sprint 1",
+                    "hora":"00:00",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":2,
+                    "circuito":"C3 - Sprint 2",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":3,
+                    "circuito":"C4 - Sprint 1",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":4,
+                    "circuito":"C4 - Sprint 2",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":3,
+                    "circuito":"C5 - Sprint 1",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":4,
+                    "circuito":"C5 - Sprint 2",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":3,
+                    "circuito":"C6 - Sprint 1",
+                    "hora":"",
+                    "imagenCircuito":"",
+                    "descripcion":"",
+                    "pais":"",
+                    "completed": true
+                },
+                {
+                    "numeroFecha":4,
+                    "circuito":"C6 - Sprint 2",
                     "hora":"",
                     "imagenCircuito":"",
                     "descripcion":"",
