@@ -1,0 +1,24 @@
+{
+    "pilotos" : [
+        {
+            "nombre": "ASD1",
+            "id": "ASD1_ASD",
+            "puntos": "100"
+        },
+        {
+            "nombre": "ASD1",
+            "id": "ASD1_ASD",
+            "puntos": "101"
+        },
+        {
+            "nombre": "ASD1",
+            "id": "ASD1_ASD",
+            "puntos": "102"
+        },
+        {
+            "nombre": "ASD1",
+            "id": "ASD1_ASD",
+            "puntos": "103"
+        }
+    ]
+}
